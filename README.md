@@ -1,1 +1,1 @@
-**Cryptocurrency Price Prediction using Machine Learing(LSTM)**
+**Cryptocurrency Price Prediction using Machine Learning(LSTM)**
